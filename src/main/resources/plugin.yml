@@ -1,0 +1,10 @@
+main: com.artemis.deathcoordinates.Main
+name: DeathCoordinates
+version: 1.0
+api-version: 1.17
+description: Pastes your death coordinates in chat when you die
+authors: [Artemis_the_gr8, CyberDrain]
+commands:
+    plshelp:
+        description: Sends player death coordinates in chat
+softdepend: [DiscordSRV]  
